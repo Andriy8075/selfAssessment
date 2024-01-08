@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-    - Procedural programming
-    - Imperative programming
-    - Structured programming
-    - Non-structured programming
-    - Functional programming
-    - Prototype-based programming
-      👂 heard Object-oriented programming
-    - Object-based programming
-    - Generic programming
-    - Concurrent computing
-    - Asyncronous programming
-    - Parallel programming
-    - Reactive programming
-    - FRP (Functional-reactive)
-    - Automata-based programming
-    - Domain-specific languages
-    - Multi-paradigm programming
-    - Metaprogramming
-    - Actor model
+  🙋 explained Procedural programming
+  🎓 known Imperative programming
+  🙋 explained Structured programming
+  🙋 explained Non-structured programming
+  🎓 known Functional programming
+  🎓 known Prototype-based programming
+  🙋 explained Object-oriented programming
+  🎓 known Object-based programming
+  👂 heard Generic programming
+  👂 heard Concurrent computing
+  👂 heard Asyncronous programming
+  👂 heard Parallel programming
+  🎓 known Reactive programming
+  - FRP (Functional-reactive)
+  - Automata-based programming
+  - Domain-specific languages
+    🎓 known Multi-paradigm programming
+    👂 heard Metaprogramming
+  - Actor model
 - OOP basics
-    - constructor
-    - new
-    - Static method
-    - Method
-    - Async method
-    - Getters, Setters
-      ️ - Public fields
-    - Private fields
-    - declarations
-    - Inheritance
-      👂 heard Parent class
-    - Polymorphism
-    - Abstract class
-      👂 heard Interface
-    - Encapsulation
-    - Hidden class
-    - Object form
-    - instance
-    - Introspection
-    - Reflection
+  🖐 used constructor
+  🖐 used new
+  🎓 known Static method
+  🖐 used Method
+  🎓 known Async method
+  🙋 explained Getters, Setters
+  🖐 used Public fields
+  🎓 known Private fields
+  🎓 known Field declarations
+  🎓 known Inheritance
+  🎓 known Parent class
+  🎓 known Polymorphism
+  - Abstract class
+  - Interface
+  - Encapsulation
+  - Hidden class
+  - Object form
+    🖐 used instance
+  - Introspection
+  - Reflection
 - Patterns
-    - Singleton
-    - Factory Method
-    - Abstract Factory
-    - Adapter
-    - Observer
-    - Strategy
-    - Facade
-    - Proxy
-    - Chain of Responsibility
-    - Command
-    - Iterator
-    - State
-    - Bridge
-    - Builder
-    - Prototype
-    - Composite
-    - Decorator
-    - Flyweight
-    - Mediator
-    - Memento
-    - Template Method
-    - Visitor
+  - Singleton
+  - Factory Method
+  - Abstract Factory
+  - Adapter
+  - Observer
+  - Strategy
+  - Facade
+  - Proxy
+  - Chain of Responsibility
+  - Command
+    👂 heard Iterator
+  - State
+  - Bridge
+  - Builder
+  - Prototype
+  - Composite
+  - Decorator
+  - Flyweight
+  - Mediator
+  - Memento
+  - Template Method
+  - Visitor
